@@ -12,5 +12,6 @@ for ch in str1:
         char=ch
 output=output+str(count)+ch
 print("aaded line")
+print("added seond line try")
 print(output)
 
