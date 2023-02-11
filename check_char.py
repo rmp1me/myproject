@@ -11,5 +11,6 @@ for ch in str1:
         count=1
         char=ch
 output=output+str(count)+ch
+print("aaded line")
 print(output)
 
