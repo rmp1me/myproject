@@ -11,6 +11,10 @@ for ch in str1:
         count=1
         char=ch
 output=output+str(count)+ch
-print("added one line")
+
+print("aaded line")
+print("added seond line try")
+print("added third line")
+
 print(output)
 
