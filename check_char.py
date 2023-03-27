@@ -13,5 +13,6 @@ for ch in str1:
 output=output+str(count)+ch
 print("aaded line")
 print("added seond line try")
+print("added third line")
 print(output)
 
